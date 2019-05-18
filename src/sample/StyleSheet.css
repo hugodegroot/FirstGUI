@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Rift;
+    src: url('RiftSoft-Bold.otf');
+}
+
+.table-view .table-cell {
+    -fx-font-weight:bold;
+    -fx-font-size:40px;
+    -fx-font-family: 'Rift';
+    -fx-font-style: normal;
+}
